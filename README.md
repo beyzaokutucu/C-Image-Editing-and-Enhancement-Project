@@ -28,6 +28,7 @@ To enhance an uploaded image, you can utilize a variety of different image proce
 
 You can select appropriate methods from the above list to enhance your image as desired.
 
- ![İmages](https://github.com/beyzaokutucu/C-Image-Editing-and-Enhancement-Project/blob/main/foto%C4%9Fraf/de%C4%9Fer.png)
- 
- ![İmages](https://github.com/beyzaokutucu/C-Image-Editing-and-Enhancement-Project/blob/main/foto%C4%9Fraf/gri.png)
+ <img src="https://github.com/beyzaokutucu/C-Image-Editing-and-Enhancement-Project/blob/main/foto%C4%9Fraf/de%C4%9Fer.png" width="700" height="700">
+
+  <img src="https://github.com/beyzaokutucu/C-Image-Editing-and-Enhancement-Project/blob/main/foto%C4%9Fraf/gri.png" width="700" height="700">
+
