@@ -1,0 +1,10 @@
+C:\Users\Okutu\source\repos\proje\proje\bin\Debug\proje.exe.config
+C:\Users\Okutu\source\repos\proje\proje\bin\Debug\proje.exe
+C:\Users\Okutu\source\repos\proje\proje\bin\Debug\proje.pdb
+C:\Users\Okutu\source\repos\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Okutu\source\repos\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\Okutu\source\repos\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Okutu\source\repos\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Okutu\source\repos\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Okutu\source\repos\proje\proje\obj\Debug\proje.exe
+C:\Users\Okutu\source\repos\proje\proje\obj\Debug\proje.pdb
